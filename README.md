@@ -1,0 +1,2 @@
+# start.smart.
+start.smart
